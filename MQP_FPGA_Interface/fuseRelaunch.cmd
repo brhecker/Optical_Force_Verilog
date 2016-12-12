@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "R:/MQP/MQP_FPGA_Interface/MQP_Test_isim_beh.exe" -prj "R:/MQP/MQP_FPGA_Interface/MQP_Test_beh.prj" "work.MQP_Test" "work.glbl" 

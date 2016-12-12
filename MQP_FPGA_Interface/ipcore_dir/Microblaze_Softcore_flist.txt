@@ -1,0 +1,18 @@
+# Output products list for <Microblaze_Softcore>
+Microblaze_Softcore.asy
+Microblaze_Softcore.bmm
+Microblaze_Softcore.gise
+Microblaze_Softcore.ngc
+Microblaze_Softcore.sym
+Microblaze_Softcore.v
+Microblaze_Softcore.veo
+Microblaze_Softcore.xco
+Microblaze_Softcore.xise
+Microblaze_Softcore\mb_bootloop_le.elf
+Microblaze_Softcore\microblaze_mcs_setup.tcl
+Microblaze_Softcore\system_template.tcl
+Microblaze_Softcore_flist.txt
+Microblaze_Softcore_readme.txt
+Microblaze_Softcore_sdk.xml
+mb_bootloop_le.elf
+microblaze_mcs_setup.tcl

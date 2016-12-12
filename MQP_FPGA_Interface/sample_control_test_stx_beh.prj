@@ -1,0 +1,3 @@
+verilog isim_temp "Serial_Sample_Control.v"
+verilog isim_temp "sample_control_test.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
